@@ -1,9 +1,10 @@
 # Pavel
-Немного о себе
-### Меня зовут Лёвин Павел, проживаю в городе Ульяновск, на данный момент работаю Web-программистом.
-## В основном работаю используя следующие языки программирования:
+A little about myself
+### My name is Levin Pavel, I live in the city of Ulyanovsk, and currently I work as a Web programmer.
+## I have a secondary specialized technical education: "Programming in computer systems"
+## I mainly work using the following programming languages:
 1. html
 2. php
 3. js
 4. css, scss, sass
-## В своих работах часто использую библиотеку React.js.
+## In my work I often use the React.js library.
